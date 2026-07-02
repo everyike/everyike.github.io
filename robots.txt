@@ -1,5 +1,5 @@
-Plaintext
 User-agent: *
 Allow: /
 
 Sitemap: https://everyike.github.io/everyike/sitemap.txt
+Sitemap: https://everyike.github.io/service/sitemap.txt
